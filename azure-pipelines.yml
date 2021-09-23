@@ -42,4 +42,4 @@ steps:
     arguments: --no-restore --configuration Release
     projects: '**/*.csproj'
 
-    # This is a comment test
+# This is a comment ste
