@@ -53,4 +53,5 @@ steps:
 - task: PublishBuildArtifacts@1
   displayName: 'Publish Artifact: drop'
   condition: succeeded()
-  # Comment in code-workflow branch
+  # 20210927 Comment in main branch: build configurations merged in main from code-workflow
+  # 20210924 Comment in code-workflow branch: added build configurations
